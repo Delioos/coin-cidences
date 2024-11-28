@@ -1,0 +1,8 @@
+[package]
+name = "coincidences"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust_decimal = "1.36.0"
+
